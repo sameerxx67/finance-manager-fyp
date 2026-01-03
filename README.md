@@ -24,6 +24,21 @@ The app helps users manage income, expenses, budgets, and financial reports effi
 1. Clone the repository
 2. Run `flutter pub get`
 3. Run `flutter run`
+👤 Author
+
+Sameer Ahmad Khan
+BS Software Engineering
+The Islamia University of Bahawalpur
+
+This project is developed as a Final Year Project (FYP) for academic purposes, focusing on building a simple and user-friendly Android Finance Manager Application using modern mobile development tools.
+
+📜 License
+
+This project is developed for educational purposes only.
+All rights are reserved by the author.
+
+The application is not intended for commercial use.
+You are allowed to view and study the code for learning purposes, but redistribution or commercial usage is not permitted without permission.
 
 
 
