@@ -1,16 +1,31 @@
 # zenthory
 
-A new Flutter project.
+# Finance Manager App (FYP)
 
-## Getting Started
+A Flutter-based Finance Manager application developed as a Final Year Project (FYP).  
+The app helps users manage income, expenses, budgets, and financial reports efficiently.
 
-This project is a starting point for a Flutter application.
+## Features
+- Add income & expenses
+- Category-wise transactions
+- Monthly & yearly reports
+- Budget management
+- Local database using SQLite
+- Clean and user-friendly UI
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+- Flutter
+- Dart
+- SQLite
+- Provider / State Management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
+
+## Developed By
+**sameer Ahmad khan*
+
+
