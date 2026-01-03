@@ -97,32 +97,5 @@ All user financial data is stored locally using SQLite, ensuring data privacy, f
 
 ---
 
-## 🚀 Future Enhancements
 
-* User authentication (Login / Sign Up)
-* Cloud backup and synchronization
-* Multi-user support
-* Export reports as PDF or CSV
-* Integration with banking or payment APIs
-
----
-
-## 👤 Author
-
-**Sameer Ahmad Khan**
-BS Software Engineering
-The Islamia University of Bahawalpur
-
-This project is developed as a Final Year Project (FYP) for academic purposes, focusing on building a simple and user-friendly Android Finance Manager Application.
-
----
-
-## 📜 License
-
-This project is developed for educational purposes only.
-All rights are reserved by the author.
-
-The application is not intended for commercial use.
-
-```
 
