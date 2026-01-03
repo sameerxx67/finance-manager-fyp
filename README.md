@@ -26,6 +26,6 @@ The app helps users manage income, expenses, budgets, and financial reports effi
 3. Run `flutter run`
 
 ## Developed By
-**sameer Ahmad khan*
+sameer Ahmad khan
 
 
