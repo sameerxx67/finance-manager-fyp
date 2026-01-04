@@ -71,6 +71,21 @@ This application works completely offline.
 All user financial data is stored locally using SQLite, ensuring data privacy, fast access, and no internet dependency.
 
 ---
+## ▶️ How to Run This Project
+
+### Prerequisites
+- Flutter SDK installed
+- Android Studio or VS Code
+- Android emulator or physical Android device
+- Docker & Docker Compose (for backend)
+
+### Steps
+
+1. Clone the repository
+   ```bash
+   git clone <repository-url>
+
+
 ## Backend Setup (Docker)
 
 The backend service is containerized using Docker.
