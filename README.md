@@ -24,7 +24,8 @@ The app is designed as a single-user offline Android application focusing on sim
 - Currency selection (PKR, USD, EUR, etc.)  
 - Light mode and Dark mode support  
 - Offline data storage using SQLite  
-- Clean and user-friendly interface  
+- Clean and user-friendly interface
+- Backend integration
 
 ---
 
@@ -36,6 +37,7 @@ The app is designed as a single-user offline Android application focusing on sim
 - Budget Management  
 - Reports & Charts  
 - Settings (Currency & Theme)
+- Docker & Docker Compose
 
 ---
 
@@ -80,11 +82,21 @@ docker compose up --build
 Backend Runs On
 http://localhost:3000
 
-## ▶️ How to Run the Project
 
-1. Clone the repository  
-   ```bash
-   git clone <repository-url>
 ````
+## 🙏 Acknowledgements
+
+I would like to express my sincere gratitude to my university teachers and supervisors for their guidance and support throughout the development of this Final Year Project.  
+I am also thankful to the open-source community and Flutter documentation for providing valuable resources and learning materials.
+
+---
+
+## ⚠️ Disclaimer
+
+This application is developed solely for **academic and learning purposes** as a Final Year Project (FYP).  
+The data used in the application is for demonstration only and does not represent real financial information.
+
+The developer is not responsible for any misuse of tiis application.
+
 
 
