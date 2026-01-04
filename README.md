@@ -69,6 +69,16 @@ This application works completely offline.
 All user financial data is stored locally using SQLite, ensuring data privacy, fast access, and no internet dependency.
 
 ---
+## Backend Setup (Docker)
+
+The backend service is containerized using Docker.
+
+### To Run Backend
+
+```bash
+docker compose up --build
+Backend Runs On
+http://localhost:3000
 
 ## ▶️ How to Run the Project
 
@@ -76,26 +86,5 @@ All user financial data is stored locally using SQLite, ensuring data privacy, f
    ```bash
    git clone <repository-url>
 ````
-
-2. Navigate to the project directory
-
-   ```bash
-   cd zenthory
-   ```
-
-3. Install dependencies
-
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the application
-
-   ```bash
-   flutter run
-   ```
-
----
-
 
 
