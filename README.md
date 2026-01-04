@@ -99,6 +99,15 @@ http://localhost:3000
 
 
 ````
+## 🚀 Future Enhancements
+
+User authentication (Login / Sign Up)
+Cloud backup and synchronization
+Multi-user support
+Export reports as PDF or CSV
+Integration with banking or payment APIs
+
+---
 ## 🙏 Acknowledgements
 
 I would like to express my sincere gratitude to my university teachers and supervisors for their guidance and support throughout the development of this Final Year Project.  
