@@ -101,11 +101,13 @@ http://localhost:3000
 ````
 ## 🚀 Future Enhancements
 
-User authentication (Login / Sign Up)
-Cloud backup and synchronization
-Multi-user support
-Export reports as PDF or CSV
-Integration with banking or payment APIs
+- User Authentications (login/ signup)
+- Cloud Backup And Synchronization
+- Multi-user Support
+- Export Reports As Pdf or Csv
+- Integration with Banking or payment APIs
+
+
 
 ---
 ## 🙏 Acknowledgements
